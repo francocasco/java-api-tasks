@@ -32,3 +32,21 @@ Cada tarea contiene:
 
 ## 📂 Estructura del proyecto
 
+src/
+└── main/
+├── java/com/example/tasks/
+│ ├── controller/
+│ ├── service/
+│ ├── model/
+│ └── repository/
+└── resources/
+├── application.properties
+└── data.sql (opcional)
+
+---
+
+## 🛠 Cómo ejecutar el proyecto
+
+### 1. Clonar repositorio
+```bash
+git clone https://github.com/TU_USUARIO/java-api-tasks.git
