@@ -33,14 +33,23 @@ Cada tarea contiene:
 ## 📂 Estructura del proyecto
 
 src/
+
 └── main/
+
 ├── java/com/example/tasks/
+
 │ ├── controller/
+
 │ ├── service/
+
 │ ├── model/
+
 │ └── repository/
+
 └── resources/
+
 ├── application.properties
+
 └── data.sql (opcional)
 
 ---
